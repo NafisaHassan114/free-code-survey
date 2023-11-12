@@ -1,0 +1,38 @@
+.bos{
+    background-image: url(img/Business-pic.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.header{
+    text-align: center;
+    color: black;
+}
+
+.box{
+    background-color: darkblue;
+    width: 400px;
+    height: 1000px;
+    margin-left: 390px;
+    padding: 40px;
+    color: white;
+}
+ .lebal{
+    width: 400px;
+    height: 33px;
+    border: none;
+    outline:  none;
+}
+.bos textarea{
+    width: 400px;
+    height: 110px;
+}
+.box button{
+    background-color: green;
+    width: 400px;
+    height: 30px;
+    color: white;
+    margin-top: 28px;
+    border: none;
+    font-size: 14px;
+}
